@@ -1,6 +1,7 @@
 # neu_pu
 power usage in northeastern university interface 
-### set up a REST interface for Mongo using Sleepy.Mongoose
+
+Set up a REST interface for Mongo using [Sleepy.Mongoose](http://www.kchodorow.com/blog/2010/02/22/sleepy-mongoose-a-mongodb-rest-interface/) and connect it to the PowerDB
 ###
 install mongodb python driver with `easy_install pymongo`
 
