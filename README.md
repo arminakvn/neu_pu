@@ -14,6 +14,7 @@ ping the sleepy.mongoose to make sure it's awake with `curl 'http://localhost:27
 connect to mongodb with curl: `curl --data server=localhost:27016 'http://localhost:27080/_connect'`
 
 example: `curl -X GET 'http://localhost:27080/pudb/sitedb/_find`
+example: `http://localhost:27080/pudb/buildingdb/_find`
 
 sleepy.mongoose documentation [here](http://www.kchodorow.com/blog/2010/02/22/sleepy-mongoose-a-mongodb-rest-interface/)
 
