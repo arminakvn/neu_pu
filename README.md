@@ -19,3 +19,5 @@ example: `http://localhost:27080/pudb/buildingdb/_find`
 
 sleepy.mongoose documentation [here](http://www.kchodorow.com/blog/2010/02/22/sleepy-mongoose-a-mongodb-rest-interface/)
 
+#
+Download as zip and open map.html in browser
