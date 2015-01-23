@@ -15,7 +15,10 @@ ping the sleepy.mongoose to make sure it's awake with
 curl 'http://localhost:27080/_hello'
 ```
 
-connect to mongodb with curl: `curl --data server=localhost:27016 'http://localhost:27080/_connect'`
+connect to mongodb with curl: 
+```
+curl --data server=localhost:27016 'http://localhost:27080/_connect'
+```
 
 example: `curl -X GET 'http://localhost:27080/pudb/sitedb/_find`
 
